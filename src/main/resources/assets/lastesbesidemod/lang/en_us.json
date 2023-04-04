@@ -2,10 +2,13 @@
   "creativemodetab.lastestbeside_tab_mat": "Materials",
   "creativemodetab.lastestbeside_tab_equip": "Equipment",
   "creativemodetab.lastestbeside_tab_mobs": "Monsters",
+  "creativemodetab.lastestbeside_tab_blocks": "Blocks",
 
   "item.lastesbesidemod.lynx_skin": "Lynx Skin",
   "item.lastesbesidemod.rock_fragment": "Rock Fragment",
   "item.lastesbesidemod.yeti_skin": "Yeti Skin",
   "item.lastesbesidemod.giant_feather": "Giant Feather",
-  "item.lastesbesidemod.ice_crystal": "Ice Crystal"
+  "item.lastesbesidemod.ice_crystal": "Ice Crystal",
+  "item.lastesbesidemod.sleep_amethyst": "Sleep Amethyst",
+  "item.lastesbesidemod.dawn_quartz": "Dawn Quartz"
 }

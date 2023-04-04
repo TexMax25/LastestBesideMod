@@ -2,10 +2,13 @@
   "creativemodetab.lastestbeside_tab_mat": "Materiales",
   "creativemodetab.lastestbeside_tab_equip": "Equipamiento",
   "creativemodetab.lastestbeside_tab_mobs": "Monstruos",
+  "creativemodetab.lastestbeside_tab_blocks": "Bloques",
 
   "item.lastesbesidemod.lynx_skin": "Piel de lince",
   "item.lastesbesidemod.rock_fragment": "Fragmento de roca",
   "item.lastesbesidemod.yeti_skin": "Piel de yeti",
   "item.lastesbesidemod.giant_feather": "Pluma gigante",
-  "item.lastesbesidemod.ice_crystal": "Cristal de hielo"
+  "item.lastesbesidemod.ice_crystal": "Cristal de hielo",
+  "item.lastesbesidemod.sleep_amethyst": "Amatista del sueño",
+  "item.lastesbesidemod.dawn_quartz": "Cuarzo de la aurora"
 }
